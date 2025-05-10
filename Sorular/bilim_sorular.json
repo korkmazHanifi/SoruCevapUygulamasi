@@ -1,0 +1,139 @@
+[
+    {
+      "metin": "Su hangi sıcaklıkta donar?",
+      "secenekler": ["A) 0°C", "B) 100°C", "C) 50°C","D) -5°C"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    
+    {
+      "metin": "Dünya'nın en büyük gezegeni hangisidir?",
+      "secenekler": ["A) Mars", "B) Jüpiter", "C) Satürn", "D) Uranüs"],
+      "dogru_cevap": "B",
+      "zorluk": "kolay"
+    },
+    
+    {
+      "metin": "Işık hızı saniyede ne kadar yol alır?",
+      "secenekler": ["A) 300,000 km", "B) 500,000 km", "C) 150,000 km", "D) 100,000 km"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    
+    {
+      "metin": "İnsanda en fazla bulunan element hangisidir?",
+      "secenekler": ["A) Oksijen", "B) Karbon", "C) Azot", "D) Hidrojen"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    
+    {
+      "metin": "Hangi gezegen Güneş Sistemi'nde en kısa sürede döner?",
+      "secenekler": ["A) Venüs", "B) Mars", "C) Jüpiter", "D) Merkür"],
+      "dogru_cevap": "D",
+      "zorluk": "orta"
+    },
+    
+    {
+      "metin": "Hangi bilim dalı canlıların yapısını, fonksiyonlarını ve evrimini inceler?",
+      "secenekler": ["A) Fizik", "B) Kimya", "C) Biyoloji", "D) Astronomi"],
+      "dogru_cevap": "C",
+      "zorluk": "kolay"
+    },
+    
+    {
+      "metin": "Işık hızı nedir?",
+      "secenekler": ["A) 300,000 km/s", "B) 150,000 km/s", "C) 200,000 km/s", "D) 100,000 km/s"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    
+    {
+      "metin": "Hangi elementin kimyasal sembolü O'dur?",
+      "secenekler": ["A) Oksijen", "B) Oltu", "C) Oryum", "D) Osmium"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    
+    {
+      "metin": "Dünyadaki en yüksek dağ hangisidir?",
+      "secenekler": ["A) Everest", "B) K2", "C) Kilimanjaro", "D) Elbrus"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    
+    {
+      "metin": "Atomun çekirdeğinde hangi parçacıklar bulunur?",
+      "secenekler": ["A) Proton ve nötron", "B) Elektron ve proton", "C) Elektron ve nötron", "D) Proton, nötron ve elektron"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    
+    {
+      "metin": "Dünyadaki ilk yapay uydu hangi ülke tarafından gönderilmiştir?",
+      "secenekler": ["A) ABD", "B) Sovyetler Birliği", "C) Çin", "D) Hindistan"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Yıldızlar neden parlar?",
+      "secenekler": ["A) Alevlenme nedeniyle", "B) Kimyasal reaksiyonlar nedeniyle", "C) Nükleer füzyon nedeniyle", "D) Elektriksel yüklenme nedeniyle"],
+      "dogru_cevap": "C",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+      "secenekler": ["A) Venüs", "B) Mars", "C) Jüpiter", "D) Saturn"],
+      "dogru_cevap": "B",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Hangi bilim insanı yerçekimi kanununu keşfetmiştir?",
+      "secenekler": ["A) Nikola Tesla", "B) Albert Einstein", "C) Isaac Newton", "D) Galileo Galilei"],
+      "dogru_cevap": "C",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "DNA'nın yapısını keşfeden bilim insanları kimlerdir?",
+      "secenekler": ["A) Watson ve Crick", "B) Darwin ve Lamarck", "C) Curie ve Einstein", "D) Mendel ve Tyndall"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Hangi gezegenin halkaları vardır?",
+      "secenekler": ["A) Mars", "B) Uranüs", "C) Satürn", "D) Venüs"],
+      "dogru_cevap": "C",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Hangisi bir çeşit enerji türüdür?",
+      "secenekler": ["A) Kuvvet", "B) Hareket", "C) Işık", "D) Kuvvet alanı"],
+      "dogru_cevap": "C",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Hangi elementin atom numarası 1'dir?",
+      "secenekler": ["A) Oksijen", "B) Karbon", "C) Helyum", "D) Hidrojen"],
+      "dogru_cevap": "D",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Bir kilogram kaç gramdır?",
+      "secenekler": ["A) 100", "B) 1000", "C) 500", "D) 2000"],
+      "dogru_cevap": "B",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "En yakın yıldız hangi gezegenin yakınındadır?",
+      "secenekler": ["A) Venüs", "B) Mars", "C) Dünya", "D) Jüpiter"],
+      "dogru_cevap": "C",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "İnsanın evrimsel gelişiminde ilk ortaya çıkan canlı türü hangisidir?",
+      "secenekler": ["A) Memeliler", "B) Balıklar", "C) Sürüngenler", "D) İnsanlar"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    }
+  ]
+  

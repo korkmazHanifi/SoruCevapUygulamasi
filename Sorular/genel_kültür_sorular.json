@@ -1,0 +1,123 @@
+[
+    {
+      "metin": "Türkiye'nin en yüksek dağı hangisidir?",
+      "secenekler": ["A) Ağrı Dağı", "B) Erciyes Dağı", "C) Kaçkar Dağı", "D) Uludağ"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Dünya'nın en büyük okyanusu hangisidir?",
+      "secenekler": ["A) Atlas Okyanusu", "B) Hint Okyanusu", "C) Pasifik Okyanusu", "D) Arktik Okyanusu"],
+      "dogru_cevap": "C",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Cumhuriyet dönemi ilk Türk romanının yazarı kimdir?",
+      "secenekler": ["A) Halit Ziya Uşaklıgil", "B) Reşat Nuri Güntekin", "C) Orhan Kemal", "D) Peyami Safa"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Türk bayrağındaki hilal ve yıldızın anlamı nedir?",
+      "secenekler": ["A) İslam'ın simgesi", "B) Türk milletinin gücü", "C) Yüce Türk hükümdarının simgesi", "D) Devletin temel ilkesi"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "İstanbul Boğazı'ndan geçen en büyük gemi hangisidir?",
+      "secenekler": ["A) Titanic", "B) Queen Mary 2", "C) Cosco", "D) Çanakkale"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Türk mutfağının en bilinen yemeklerinden biri olan ve yoğurtla servis edilen yemek hangisidir?",
+      "secenekler": ["A) Döner", "B) Kısır", "C) Çörek", "D) İskender"],
+      "dogru_cevap": "D",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Fransa'nın başkenti neresidir?",
+      "secenekler": ["A) Paris", "B) Lyon", "C) Marseille", "D) Bordeaux"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Avustralya'nın resmi dili nedir?",
+      "secenekler": ["A) İngilizce", "B) İspanyolca", "C) Fransızca", "D) Almanca"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Dünyanın en büyük adası hangisidir?",
+      "secenekler": ["A) Grönland", "B) Sumatra", "C) Borneo", "D) Madagaskar"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Yunan mitolojisinin baş tanrısı kimdir?",
+      "secenekler": ["A) Zeus", "B) Poseidon", "C) Apollon", "D) Ares"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Dünyanın en uzun nehri hangisidir?",
+      "secenekler": ["A) Nil Nehri", "B) Amazon Nehri", "C) Yangtze Nehri", "D) Mississippi Nehri"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Einstein'ın ünlü denklemi nedir?",
+      "secenekler": ["A) E=mc^2", "B) F=ma", "C) v=d/t", "D) P=mv"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+      "secenekler": ["A) Mustafa Kemal Atatürk", "B) İsmet İnönü", "C) Fethi Okyar", "D) Celal Bayar"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Rönesans dönemi sanatçılarından biri kimdir?",
+      "secenekler": ["A) Leonardo da Vinci", "B) Vincent van Gogh", "C) Pablo Picasso", "D) Claude Monet"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Dünya'da en çok konuşulan dil hangisidir?",
+      "secenekler": ["A) İngilizce", "B) Mandarin", "C) İspanyolca", "D) Arapça"],
+      "dogru_cevap": "B",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "En ünlü bilim insanlarından biri olan Isaac Newton hangi teoriyi geliştirmiştir?",
+      "secenekler": ["A) Yerçekimi Teorisi", "B) E=mc^2", "C) Işık Teorisi", "D) Kuantum Teorisi"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Hangi gezegen en büyük gezegendir?",
+      "secenekler": ["A) Mars", "B) Venüs", "C) Jüpiter", "D) Uranüs"],
+      "dogru_cevap": "C",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Kutup Yıldızı hangi takımyıldızına aittir?",
+      "secenekler": ["A) Büyük Ayı", "B) Küçük Ayı", "C) Orion", "D) Akrep"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Türk televizyon tarihinin ilk renkli yayını hangi kanal yapmıştır?",
+      "secenekler": ["A) TRT", "B) Kanal D", "C) Show TV", "D) NTV"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Dünyanın en büyük camisi nerede bulunmaktadır?",
+      "secenekler": ["A) Mekke", "B) İstanbul", "C) Kahire", "D) Medine"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    }
+  ]
+  

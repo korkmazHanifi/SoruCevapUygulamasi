@@ -1,0 +1,123 @@
+[
+    {
+      "metin": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+      "secenekler": ["A) Mustafa Kemal Atatürk", "B) İsmet İnönü", "C) Celal Bayar", "D) Fethi Okyar"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "İkinci Dünya Savaşı hangi tarihte sona ermiştir?",
+      "secenekler": ["A) 1941", "B) 1943", "C) 1945", "D) 1947"],
+      "dogru_cevap": "C",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Türk Kurtuluş Savaşı'nın başkomutanı kimdir?",
+      "secenekler": ["A) Mustafa Kemal Atatürk", "B) Kazım Karabekir", "C) Fevzi Çakmak", "D) İsmet İnönü"],
+      "dogru_cevap": "A",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Osmanlı Devleti hangi yıl yıkılmıştır?",
+      "secenekler": ["A) 1914", "B) 1923", "C) 1920", "D) 1922"],
+      "dogru_cevap": "D",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Roma İmparatorluğu'nun başkenti hangi şehirdir?",
+      "secenekler": ["A) Roma", "B) Konstantinopolis", "C) Atina", "D) Kartaca"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Fransa'da 1789 yılında başlayan devrim hangi devrimdir?",
+      "secenekler": ["A) Fransız Devrimi", "B) Rus Devrimi", "C) Amerikan Devrimi", "D) Çin Devrimi"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Dünya'daki ilk yazılı kanunları yapan devlet hangisidir?",
+      "secenekler": ["A) Roma İmparatorluğu", "B) Babil Krallığı", "C) Mısır", "D) Osmanlı İmparatorluğu"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Kurtuluş Savaşı'nda Sakarya Meydan Muharebesi hangi tarihte yapılmıştır?",
+      "secenekler": ["A) 1919", "B) 1920", "C) 1921", "D) 1922"],
+      "dogru_cevap": "C",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Mevlana Celaleddin Rumi hangi asırda yaşamıştır?",
+      "secenekler": ["A) 11. Yüzyıl", "B) 12. Yüzyıl", "C) 13. Yüzyıl", "D) 14. Yüzyıl"],
+      "dogru_cevap": "C",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı kimdir?",
+      "secenekler": ["A) İsmet İnönü", "B) Celal Bayar", "C) Mustafa Kemal Atatürk", "D) Adnan Menderes"],
+      "dogru_cevap": "C",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "İlk Türk İslam devleti hangisidir?",
+      "secenekler": ["A) Selçuklu Devleti", "B) Karahanlılar", "C) Osmanlı Devleti", "D) Gazneliler"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Fransız İhtilali'nin temel amacı nedir?",
+      "secenekler": ["A) Hükümetin güçlendirilmesi", "B) Toplumsal eşitsizliklerin ortadan kaldırılması", "C) Kraliyet yönetiminin devamı", "D) Katolik Kilisesi'nin gücünün artırılması"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Osmanlı Devleti'nde ilk padişah kimdir?",
+      "secenekler": ["A) Yavuz Sultan Selim", "B) Osman Gazi", "C) Fatih Sultan Mehmet", "D) Kanuni Sultan Süleyman"],
+      "dogru_cevap": "B",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Amerikan Bağımsızlık Savaşı hangi yıl başlamıştır?",
+      "secenekler": ["A) 1775", "B) 1776", "C) 1783", "D) 1800"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Türk Hava Yolları hangi yıl kurulmuştur?",
+      "secenekler": ["A) 1925", "B) 1933", "C) 1950", "D) 1960"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Osmanlı İmparatorluğu'nun son padişahı kimdir?",
+      "secenekler": ["A) Sultan Abdülhamit", "B) Sultan Vahdettin", "C) Sultan Mehmet Reşad", "D) Sultan II. Mahmud"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Cumhuriyetin ilanı hangi tarihte gerçekleşmiştir?",
+      "secenekler": ["A) 23 Nisan 1920", "B) 29 Ekim 1923", "C) 1 Kasım 1923", "D) 30 Ağustos 1922"],
+      "dogru_cevap": "B",
+      "zorluk": "kolay"
+    },
+    {
+      "metin": "Roma İmparatorluğu'nun ikiye ayrılması hangi yılda olmuştur?",
+      "secenekler": ["A) 395", "B) 476", "C) 330", "D) 500"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "II. Dünya Savaşı'nın başlatılmasına neden olan olay hangisidir?",
+      "secenekler": ["A) Polonya'ya saldırı", "B) Pearl Harbor saldırısı", "C) Sovyetler Birliği'nin Almanya'ya saldırması", "D) Fransa'nın teslim olması"],
+      "dogru_cevap": "A",
+      "zorluk": "orta"
+    },
+    {
+      "metin": "Türklerin İslamiyet'i kabul etmeye başladığı ilk tarihsel dönem hangisidir?",
+      "secenekler": ["A) Büyük Selçuklu Devleti", "B) Karahanlılar", "C) Osmanlı Devleti", "D) Gazneliler"],
+      "dogru_cevap": "B",
+      "zorluk": "orta"
+    }
+  ]
+  

@@ -1,0 +1,122 @@
+[
+  {
+    "metin": "Futbolun icat edildiği ülke hangisidir?",
+    "secenekler": ["A) Almanya", "B) İngiltere", "C) İtalya", "D) Brezilya"],
+    "dogru_cevap": "B",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "FIFA Dünya Kupası ilk kez hangi yıl düzenlenmiştir?",
+    "secenekler": ["A) 1930", "B) 1940", "C) 1950", "D) 1960"],
+    "dogru_cevap": "A",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "NBA'nin en çok şampiyon olan takımı hangisidir?",
+    "secenekler": ["A) Boston Celtics", "B) Los Angeles Lakers", "C) Chicago Bulls", "D) Golden State Warriors"],
+    "dogru_cevap": "A",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "F1 (Formula 1) yarışlarının en fazla şampiyon olan pilotu kimdir?",
+    "secenekler": ["A) Ayrton Senna", "B) Michael Schumacher", "C) Lewis Hamilton", "D) Fernando Alonso"],
+    "dogru_cevap": "B",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "Hangi spor dalında 'Slam Dunk' terimi kullanılır?",
+    "secenekler": ["A) Basketbol", "B) Futbol", "C) Voleybol", "D) Tenis"],
+    "dogru_cevap": "A",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "2020 Tokyo Olimpiyatları hangi yıl düzenlenmiştir?",
+    "secenekler": ["A) 2020", "B) 2021", "C) 2022", "D) 2016"],
+    "dogru_cevap": "B",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "Hangi spor dalında Wimbledon Turnuvası düzenlenmektedir?",
+    "secenekler": ["A) Basketbol", "B) Tenis", "C) Golf", "D) Voleybol"],
+    "dogru_cevap": "B",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "Hangi takım, Türk futbolunun Süper Lig şampiyonluğunda en fazla zafere sahiptir?",
+    "secenekler": ["A) Fenerbahçe", "B) Galatasaray", "C) Beşiktaş", "D) Trabzonspor"],
+    "dogru_cevap": "B",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "Dünyanın en prestijli spor ödüllerinden biri olan 'Oscar' ödülleri hangi alanda verilir?",
+    "secenekler": ["A) Sinema", "B) Müzik", "C) Spor", "D) Edebiyat"],
+    "dogru_cevap": "C",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "İlk Olimpiyat Oyunları hangi yıl düzenlenmiştir?",
+    "secenekler": ["A) 1896", "B) 1900", "C) 1912", "D) 1924"],
+    "dogru_cevap": "A",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "Hangi futbol takımı, 1999'da UEFA Şampiyonlar Ligi'ni kazandı?",
+    "secenekler": ["A) Manchester United", "B) Barcelona", "C) Real Madrid", "D) AC Milan"],
+    "dogru_cevap": "A",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "Futbol maçında bir takımda toplam kaç oyuncu bulunur?",
+    "secenekler": ["A) 10", "B) 11", "C) 12", "D) 9"],
+    "dogru_cevap": "B",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "Hangi spor dalında 'pike' terimi kullanılır?",
+    "secenekler": ["A) Jimnastik", "B) Voleybol", "C) Basketbol", "D) Yüzme"],
+    "dogru_cevap": "A",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "Hangi takım, 2008 UEFA Avrupa Futbol Şampiyonası'nı kazandı?",
+    "secenekler": ["A) İspanya", "B) Almanya", "C) Fransa", "D) Hollanda"],
+    "dogru_cevap": "A",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "Dünyanın en hızlı koşan hayvanı hangisidir?",
+    "secenekler": ["A) Aslan", "B) Çita", "C) Yılan", "D) Geyik"],
+    "dogru_cevap": "B",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "Hangi futbolcu, 2019'da Ballon d'Or (Altın Top) ödülünü kazandı?",
+    "secenekler": ["A) Cristiano Ronaldo", "B) Lionel Messi", "C) Luka Modrić", "D) Robert Lewandowski"],
+    "dogru_cevap": "B",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "Olimpiyat oyunlarında hangi spor dalı ilk kez 2020'de yer aldı?",
+    "secenekler": ["A) Kaykay", "B) Boks", "C) Golf", "D) Beyzbol"],
+    "dogru_cevap": "A",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "Hangi takım, NBA tarihindeki en fazla şampiyonluk kazanan takımdır?",
+    "secenekler": ["A) Chicago Bulls", "B) Los Angeles Lakers", "C) Boston Celtics", "D) Golden State Warriors"],
+    "dogru_cevap": "C",
+    "zorluk": "orta"
+  },
+  {
+    "metin": "Yüzme yarışlarında en kısa mesafe nedir?",
+    "secenekler": ["A) 50 metre", "B) 100 metre", "C) 200 metre", "D) 400 metre"],
+    "dogru_cevap": "A",
+    "zorluk": "kolay"
+  },
+  {
+    "metin": "Dünyanın en büyük spor etkinliği hangisidir?",
+    "secenekler": ["A) FIFA Dünya Kupası", "B) Olimpiyat Oyunları", "C) Super Bowl", "D) Wimbledon"],
+    "dogru_cevap": "B",
+    "zorluk": "orta"
+  }
+]
